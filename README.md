@@ -1,1 +1,1 @@
-# Tickybot
+# tickybot.io
